@@ -1,5 +1,9 @@
 # i3lock-rand
-Make your i3lock screen randomly choosen from a list of wallpapers, and the ring customized for each.
+Have your i3lock wallpaper randomly choosen from a list of wallpapers, and the ring customized for each.
+
+<p align="center">
+  <img src="https://thumbs.gfycat.com/CandidActiveAmericankestrel-size_restricted.gif" alt="demo_gif" />
+</p>
 
 
 # What it is ?
