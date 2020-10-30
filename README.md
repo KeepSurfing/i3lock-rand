@@ -51,6 +51,7 @@ If you want to add a wallpaper of yours :
 
 
 ## What will be done next ? <a name="what6"></a>
+* Initialize the path to lockpaper folder to where the *.config* file is
 * Correct the displayed strings position / color / size
 * Add another wallpaper
 * Make it fancier/funnier ?
